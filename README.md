@@ -1,2 +1,2 @@
 # ServusRecognition
-Basic speech commands recognition for Servus - a mobile robot
+Speech command recognition system for Servus - a mobile robot
